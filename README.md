@@ -1,7 +1,7 @@
-#Out_of_office_confirmation_software
+# Out_of_office_confirmation_software
 > 在退席状態を出力するツール
 
-##特徴
+## 特徴
 - OBS等の配信ツール上で使えるテキストファイルを出力する
 
 ## 使い方
